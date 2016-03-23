@@ -21,4 +21,4 @@ This app is responsible for enabling bidder to participate of an auction.
 
 # Demo
 
-+ ![App demo](docs/demo-app.gif)
+![App demo](docs/demo-app.gif)
