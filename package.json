@@ -29,8 +29,9 @@
   ],
   "author": "Maycon Beserra",
   "license": "ISC",
-    "dependencies": {
+  "dependencies": {
     "6to5-jest": "^3.0.0",
+    "axios": "^0.9.1",
     "babel-core": "^6.4.5",
     "babel-jest": "^6.0.1",
     "bootstrap": "^3.3.5",
